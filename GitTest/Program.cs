@@ -15,6 +15,8 @@ namespace GitTest
             // v1.1 changes
             //
 
+            // Stash test in feature 1.1
+
             // Stash change to master
         }
     }
