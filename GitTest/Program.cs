@@ -18,6 +18,8 @@ namespace GitTest
             // Stash test in feature 1.1
 
             // Stash change to master
+
+            float f = 2.1f;
         }
     }
 }

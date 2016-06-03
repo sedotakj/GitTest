@@ -9,5 +9,6 @@ namespace GitTest
     class NewClass
     {
         // new changes
+        int a = 0;
     }
 }
